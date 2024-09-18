@@ -1,0 +1,1 @@
+AI-MULTIDET es una herramienta que integra la detección de contenido genenerado por Inteligencia Artificial de diversas naturalezas (texto, imagen, audio y vídeo) y proveniente de diferentes fuentes (introducido manualmente por el usuario o proveniente de una red social). 
